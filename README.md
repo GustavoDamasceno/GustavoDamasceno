@@ -1,4 +1,27 @@
-### Hi there 👋
+<h1> Olá DEV, tudo bem? 🖖 </h1>
+
+### 👨‍🎓 **_Gustavo Damasceno_** 👨‍🎓
+
+Apaixonado por tecnologia e empreendedorismo, Damasceno é graduando em Engenharia da computação pela Universidade Federal do Ceará. Fundador da startup Guru do bolso, trabalhou por dois anos como articulador do núcleo de inovação e empreendedorismo (INOVE) e atua no Programa Empreendedor Universitário Digital (EDU) como estagiário.
+
+Curiosidades: A startup Guru do bolso foi vice-campeã estadual no desafio startup 2020, passou pelo programa de aceleração do sebrae (StartupCE) e também pelo maior programa de aceleração do estado (CE), o programa Corredores Digitais. Atualmente a startup está sendo incubada pelo NINNA HUB, um espaço de conexão e negócios entre startups, investidores, empresas tradicionais e academia.
+
+<div align="center">
+  
+  ### Show that you're awesome 🤩 by starring in some of the repositories!
+</div>
+
+##  Contate-me :speech_balloon:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-damasceno-650796163/)](https://www.linkedin.com/in/gustavo-damasceno-650796163/)
+[![Instagram badge](https://img.shields.io/badge/-Instagram-dc5273?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gudamasc)](https://www.instagram.com/gudamasc/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eng.damasceno@alu.ufc.br)](mailto:eng.damasceno@alu.ufc.br)
+[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@eng.damasceno)](https://medium.com/@eng.damasceno)
+
+<div align="center">
+<img width="350px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoDamasceno&hide=html&layout=compact&theme=dracula"/>
+<img width="395px" align="center" src="https://github-readme-stats.vercel.app/api?username=GustavoDamasceno&theme=dracula"/>
+</div>
+
 
 <!--
 **GustavoDamasceno/GustavoDamasceno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
