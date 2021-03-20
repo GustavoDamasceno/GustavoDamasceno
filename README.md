@@ -19,6 +19,7 @@ Apaixonado por tecnologia e empreendedorismo, Damasceno é graduando em Engenhar
 
 <div align="center">
 <img width="350px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoDamasceno&hide=html&layout=compact&theme=dracula"/>
+  
 <img width="395px" align="center" src="https://github-readme-stats.vercel.app/api?username=GustavoDamasceno&theme=dracula"/>
 </div>
 
