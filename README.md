@@ -8,7 +8,7 @@ Curiosidades: A startup Guru do bolso foi vice-campeã estadual no desafio start
 
 <div align="center">
   
-  ### Show that you're awesome 🤩 by starring in some of the repositories!
+  ### Contribua com o perfil 🤩 dando like nos repositórios e trazendo melhorias!
 </div>
 
 ##  Contate-me :speech_balloon:
