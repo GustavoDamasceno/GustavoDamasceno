@@ -17,11 +17,6 @@ Apaixonado por tecnologia e empreendedorismo, Damasceno é graduando em Engenhar
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eng.damasceno@alu.ufc.br)](mailto:eng.damasceno@alu.ufc.br)
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@eng.damasceno)](https://medium.com/@eng.damasceno)
 
-<div align="center">
-<img width="350px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoDamasceno&hide=html&layout=compact&theme=dracula"/>
-  
-<img width="395px" align="center" src="https://github-readme-stats.vercel.app/api?username=GustavoDamasceno&theme=dracula"/>
-</div>
 
 
 <!--
