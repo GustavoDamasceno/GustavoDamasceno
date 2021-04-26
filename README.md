@@ -2,7 +2,7 @@
 
 ### 👨‍🎓 **_Gustavo Damasceno_** 👨‍🎓
 
-Apaixonado por tecnologia e empreendedorismo, Damasceno é graduando em Engenharia da computação pela universidade federal do ceará. Fundador da startup **Guru do bolso**, trabalhou por dois anos como articulador do núcleo de inovação e empreendedorismo e atua no Programa Empreendedor Universitário Digital como estagiário.
+Apaixonado por tecnologia e empreendedorismo, Damasceno é graduando em Engenharia da computação pela universidade federal do ceará. Fundador da startup **Guru do bolso** e estagiário de tecnologia na **Solar Coca-Cola**, já trabalhou por dois anos como articulador do núcleo de inovação e empreendedorismo e atuou no Programa Empreendedor Universitário Digital como estagiário.
 
 **Curiosidades:** A **Guru do bolso** foi vice-campeã estadual no **desafio startup 2020**, passou pelo programa de aceleração do sebrae e também pelo maior programa de aceleração do estado (CE), o programa Corredores Digitais. Atualmente a startup está sendo incubada pelo NINNA HUB, um espaço de conexão e negócios entre startups, investidores e empresas tradicionais.
 
