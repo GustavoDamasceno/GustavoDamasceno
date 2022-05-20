@@ -29,9 +29,12 @@ Apaixonado por tecnologia e empreendedorismo, Damasceno é graduando em Engenhar
 <img align="center"  height="30" width="40" src="https://img.icons8.com/color/344/sap.png">
 <img align="center"  height="30" width="40" src="https://img.icons8.com/color/344/figma--v1.png">
 <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+<img align="center"  height="30" width="40" src="https://www.alwaysinnovating.com/images/beagleboard.png">
+<img align="center"  height="30" width="40" src="https://img.icons8.com/color/480/raspberry-pi.png">
 <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
 <img align="center"  height="30" width="40" src="https://i0.wp.com/www.inflectra.com/Images/Logos/Microsoft-Azure-DevOps.png?resize=246%2C140&ssl=1">
 <img align="center"  height="30" width="40" src="https://img.icons8.com/color/344/jira.png">
+
   
  ##  Contate-me :speech_balloon:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-damasceno-650796163/)](https://www.linkedin.com/in/gustavo-damasceno-650796163/)
