@@ -11,13 +11,33 @@ Apaixonado por tecnologia e empreendedorismo, Damasceno é graduando em Engenhar
   ### Contribua com o perfil 🤩 dando like nos repositórios e trazendo melhorias!
 </div>
 
-##  Contate-me :speech_balloon:
+## Linguagens 📖
+<div style="display: inline_block"><br>
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center"  height="30" width="40" src="https://img.icons8.com/external-soft-fill-juicy-fish/344/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png">
+  <img align="center"  height="30" width="40" src="https://dg8krxphbh767.cloudfront.net/tracks/abap.svg">
+  
+## Ferramentas 💻
+<img align="center"  height="30" width="40" src="https://img.icons8.com/color/344/sap.png">
+<img align="center"  height="30" width="40" src="https://img.icons8.com/color/344/figma--v1.png">
+<img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+<img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
+<img align="center"  height="30" width="40" src="https://i0.wp.com/www.inflectra.com/Images/Logos/Microsoft-Azure-DevOps.png?resize=246%2C140&ssl=1">
+<img align="center"  height="30" width="40" src="https://img.icons8.com/color/344/jira.png">
+  
+ ##  Contate-me :speech_balloon:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-damasceno-650796163/)](https://www.linkedin.com/in/gustavo-damasceno-650796163/)
 [![Instagram badge](https://img.shields.io/badge/-Instagram-dc5273?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gudamasc)](https://www.instagram.com/gudamasc/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eng.damasceno@alu.ufc.br)](mailto:eng.damasceno@alu.ufc.br)
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@eng.damasceno)](https://medium.com/@eng.damasceno)
-
-
 
 <!--
 **GustavoDamasceno/GustavoDamasceno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
