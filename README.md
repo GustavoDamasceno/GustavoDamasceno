@@ -33,7 +33,6 @@ Apaixonado por tecnologia e empreendedorismo, Damasceno é graduando em Engenhar
 <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
 <img align="center"  height="30" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png">
 <img align="center"  height="30" width="40" src="https://i0.wp.com/www.inflectra.com/Images/Logos/Microsoft-Azure-DevOps.png?resize=246%2C140&ssl=1">
-<img align="center"  height="30" width="40" src="https://img.icons8.com/color/344/jira.png">
 
   
  ##  Contate-me :speech_balloon:
