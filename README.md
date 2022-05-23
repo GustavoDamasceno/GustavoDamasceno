@@ -22,7 +22,6 @@ Apaixonado por tecnologia e empreendedorismo, Damasceno é graduando em Engenhar
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center"  height="30" width="40" src="https://img.icons8.com/external-soft-fill-juicy-fish/344/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png">
   <img align="center"  height="30" width="40" src="https://dg8krxphbh767.cloudfront.net/tracks/abap.svg">
   
 ## Ferramentas 💻
